@@ -1,0 +1,20 @@
+h1 {
+    font-size: 5em;
+  
+  }
+  #profile_pic {
+      height:400px
+      
+  }
+  .github-icon {
+      height: 50px
+
+  }
+  body {
+
+    background-color:beige;
+    color:brown;
+    text-decoration: none;
+
+
+  }
